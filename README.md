@@ -104,7 +104,25 @@ your_car.year = 1990
 
 * Download Sizeup for your Macbook so you can snap your screens into place
 
+##### Sublime Text Packages
 
+* `Emmet`
+* `Color Picker`
+* `Bracket Highlighter`
+
+##### CSS Resources
+
+* [http://caniuse.com/](http://caniuse.com/)
+* [https://coolors.co/](https://coolors.co/)
+* [http://css3buttongenerator.com/](http://css3buttongenerator.com/)
+
+##### JS Resources
+
+* [http://javascriptissexy.com/](http://javascriptissexy.com/)
+	* Read about:
+	* Callbacks, Closures, Higher Order Functions
+	* JS This
+	* JS Bind Call Apply
 
 
 ## Lunch Spots
