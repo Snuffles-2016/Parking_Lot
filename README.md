@@ -124,6 +124,9 @@ your_car.year = 1990
 	* JS This
 	* JS Bind Call Apply
 
+##### APIs
+
+* Free Public APIS - [https://github.com/toddmotto/public-apis](https://github.com/toddmotto/public-apis)
 
 ## Lunch Spots
 
@@ -160,9 +163,12 @@ your_car.year = 1990
 
 ## Calendar
 
+
 | Weeks | Day 1                                            | Day 2                                               | Day 3                                                 | Day 4                                                    | Day 5                                   | Weekend  Assignments             |
 |-------|--------------------------------------------------|-----------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------|-----------------------------------------|----------------------------------|
 | 1     | Python Fundamentals One                          | Python Fundamentals Two                             | Intro to Object Oriented Programming                  | OOPs Part  Two                                           | Review                                  | RPG Version One                  |
 | 2     | Big O Linked List Stacks Queues                  | Binary Search Linear Search Insert Sort Bubble Sort | MVC Intro Views Controller SQL Intro                  | Full MVC Sqlite3 CreateDB SeedDB                         | Review No Class                         | RPG  Version Two                 |
 | 3     | RPG Review                                       | Foreign Keys Relational Databases                   | Relational Databases Part Two SQL JOINS Bank Software | API Intro OMDB Movie Search                              | API Part Two Markit API Terminal Trader | Terminal Trader Trader to Bank   |
 | 4     | Advanced Python Args + Kwargs List Comprehension | Review                                              | Review                                                | Review                                                   | Phase 1 Assessment                      | HTML + CSS  Reading              |
+| 5     | HTML CSS JavaScript                              | Star Wars  Vanilla DOM                              | Star Wars jQuery DOM                                  | CSS Positions JS This Tic Tac Toe                        | CSS Positions JS This Tic Tac Toe       | Tic Tac Toe Rock Paper  Scissors |
+| 6     | CSS Animations                                   | Django Intro Virtual Env 
