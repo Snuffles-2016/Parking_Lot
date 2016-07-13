@@ -128,6 +128,11 @@ your_car.year = 1990
 
 * Free Public APIS - [https://github.com/toddmotto/public-apis](https://github.com/toddmotto/public-apis)
 
+##### Django 
+
+* Common URL Patterns - [https://github.com/codingforentrepreneurs/Guides/blob/master/all/common_url_regex.md](https://github.com/codingforentrepreneurs/Guides/blob/master/all/common_url_regex.md)
+
+
 ## Lunch Spots
 
 * Chipotle - 
